@@ -1,1 +1,1 @@
-# LKK
+# Vite Expo Tamagui Starter
