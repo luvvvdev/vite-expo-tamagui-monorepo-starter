@@ -1,0 +1,14 @@
+{
+  "name": "tamagui-vite-expo-starter",
+  "version": "0.0.1",
+  "private": true,
+  "resolutions": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "workspaces": [
+    "packages/*",
+    "platforms/web/*",
+    "platforms/mobile/*"
+  ]
+}
